@@ -16,6 +16,7 @@ The code for different task are in different directory. For example, rct_acc con
 To conduct the experiments, please run the batch_train.sh in scripts file. For the PE dataset, you should prepare the data using the code in *datapreprocessing*
 
 # Citation
+```python
 @inproceedings{liu-etal-2023-argument,
     title = "Argument mining as a multi-hop generative machine reading comprehension task",
     author = "Liu, Boyang  and
@@ -31,3 +32,4 @@ To conduct the experiments, please run the batch_train.sh in scripts file. For t
     doi = "10.18653/v1/2023.findings-emnlp.724",
     pages = "10846--10858",
 }
+```
