@@ -17,19 +17,11 @@ To conduct the experiments, please run the batch_train.sh in scripts file. For t
 
 # Citation
 ```python
-@inproceedings{liu-etal-2023-argument,
-    title = "Argument mining as a multi-hop generative machine reading comprehension task",
-    author = "Liu, Boyang  and
-      Schlegel, Viktor  and
-      Batista-Navarro, Riza  and
-      Ananiadou, Sophia",
-    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2023",
-    month = dec,
-    year = "2023",
-    address = "Singapore",
-    publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2023.findings-emnlp.724",
-    doi = "10.18653/v1/2023.findings-emnlp.724",
-    pages = "10846--10858",
+@inproceedings{liu2023argument,
+  title={Argument mining as a multi-hop generative machine reading comprehension task},
+  author={Liu, Boyang and Schlegel, Viktor and Batista-Navarro, Riza Theresa and Ananiadou, Sophia},
+  booktitle={Findings of the Association for Computational Linguistics: EMNLP 2023},
+  pages={10846--10858},
+  year={2023}
 }
 ```
