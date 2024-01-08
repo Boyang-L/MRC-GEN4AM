@@ -1,5 +1,5 @@
 # MRC-GEN4AM
-Code release for paper [Argument mining as a multi-hop generative machine reading comprehension task] (https://aclanthology.org/2023.findings-emnlp.724/)
+Code release for paper [Argument mining as a multi-hop generative machine reading comprehension task](https://aclanthology.org/2023.findings-emnlp.724/)
 # Prerequisites
 python                    3.9.0   
 argparse                  1.4.0  
